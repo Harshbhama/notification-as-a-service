@@ -1,4 +1,6 @@
 queue-service-1/node_modules
 queue-service-1/.npmrc
+queue-service-2/.npmrc
+queue-service-3/.npmrc
 queue-service-2/node_modules
 queue-service-3/node_modules
